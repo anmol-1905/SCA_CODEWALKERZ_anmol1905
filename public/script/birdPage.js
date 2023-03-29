@@ -17,7 +17,7 @@ function fun1(){
         document.querySelector('#butn').disabled = true;
 
         setTimeout(()=>{
-            window.location.href=`${__dirname}/forthPage`;
+            window.location.href=`https://sca-codewalkerz-anmol19.onrender.com/forthPage`;
           }, 2000);
     }
     else{

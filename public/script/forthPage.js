@@ -16,7 +16,7 @@ function fun1(boxId, buttonId){
         count++;
         if(count===3) {
             setTimeout(()=>{
-                window.location.href = `${__dirname}/finalPage`;
+                window.location.href = `https://sca-codewalkerz-anmol19.onrender.com/finalPage`;
             }, 2000);
         }
     }

@@ -123,7 +123,7 @@ function funcq1() {
       document.getElementById("clap").style.cssText = "visibility: visible;transition: 2s;font-size:50px";
       setTimeout(()=>{
         // fetch('http://localhost:4000/secondPage');
-        window.location.href=`${__dirname}/secondPage`;
+        window.location.href=`https://sca-codewalkerz-anmol19.onrender.com/secondPage`;
       }, 2000);
     }
   }
